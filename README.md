@@ -25,12 +25,12 @@ Real hardware deployment, real cloud integration, large-scale network HA/scale t
 Software (for simulation & demo):
 Cisco Packet Tracer (latest supported by your course)
 Hardware (simulated in Packet Tracer):
-IoT Home Gateway / DEC100 (Packet Tracer IoT Gateway)
-Street Lamp (use IoT light / smart bulb available in Packet Tracer)
-Motion Detector (IoT motion detector)
-Webcam (IoT webcam)
-Tablet/TabletPC (for dashboard)
-Fire Monitor sensor (IoT fire sensor)
-MCU-PT / Microcontroller (Arduino-like MCU in Packet Tracer)
-Siren / Sprinkler (actuators in Packet Tracer)
-Optional: Router + Switch + PC for logging server or remote dashboard
+IoT Home Gateway / DEC100 (Packet Tracer IoT Gateway),
+Street Lamp (use IoT light / smart bulb available in Packet Tracer),
+Motion Detector (IoT motion detector),
+Webcam (IoT webcam),
+Tablet/TabletPC (for dashboard),
+Fire Monitor sensor (IoT fire sensor),
+MCU-PT / Microcontroller (Arduino-like MCU in Packet Tracer),
+Siren / Sprinkler (actuators in Packet Tracer),
+Optional: Router + Switch + PC for logging server or remote dashboard.
